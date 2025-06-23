@@ -1,0 +1,22 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:component",
+		"predicate": "minecraft:custom_data",
+		"value": {
+			"aspects": {
+				"essence_cage": {
+					"stored_essences": {}
+				}
+			}
+		},
+		"on_true": {
+			"type": "minecraft:model",
+			"model": "aspects:item/essence_cage/contains"
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "aspects:item/essence_cage/empty"
+		}
+	}
+}

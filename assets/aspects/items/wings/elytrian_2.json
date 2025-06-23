@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:broken",
+        "on_false": {
+            "type": "minecraft:model",
+            "model": "aspects:item/wings/elytrian_2"
+        },
+        "on_true": {
+            "type": "minecraft:model",
+            "model": "aspects:item/wings/elytrian_2_broken"
+        }
+    }
+}

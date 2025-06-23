@@ -1,0 +1,25 @@
+{
+	"pack": {
+		"pack_format": 55,
+		"supported_formats": {
+			"min_inclusive": 55,
+			"max_inclusive": 63
+		},
+		"description": [
+			{
+				"text": "PR1",
+				"color": "dark_purple"
+			},
+			" | ",
+			{
+				"text": "Aspects Resources",
+				"color": "aqua"
+			}
+			"\n",
+			{
+				"text": "Powers? Downsides?",
+				"color": "aqua"
+			}
+		]
+	}
+}

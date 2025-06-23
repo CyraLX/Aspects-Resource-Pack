@@ -1,0 +1,130 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "aspects:item/essence_cage/awakened/missing"
+        },
+        "cases": [
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "elytrian"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/elytrian"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "enderian"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/enderian"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "feline"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/feline"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "honey_bee"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/honey_bee"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "human"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/human"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "infernal"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/infernal"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "merling"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/merling"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "shulk"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/shulk"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "rascal"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/rascal"
+                }
+            }
+        ]
+    }
+}

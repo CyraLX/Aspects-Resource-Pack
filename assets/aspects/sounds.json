@@ -1,0 +1,287 @@
+{
+    "aspect.elytrian.activate": {
+        "subtitle": "sound.aspects.aspect.elytrian.activate",
+        "sounds": [
+            "mob/parrot/idle1",
+            "mob/parrot/idle2",
+            "mob/parrot/idle3",
+            "mob/parrot/idle4",
+            "mob/parrot/idle5"
+        ]
+    },
+    "aspect.enderian.activate": {
+        "subtitle": "sound.aspects.aspect.enderian.activate",
+        "sounds": [
+            "endermen/idle1",
+            "endermen/idle2",
+            "endermen/idle3",
+            "endermen/idle4"
+        ]
+    },
+    "aspect.feline.activate": {
+        "subtitle": "sound.aspects.aspect.feline.activate",
+        "sounds": [
+            "mob/cat/meow1",
+            "mob/cat/meow2",
+            "mob/cat/meow3",
+            "mob/cat/meow4"
+        ]
+    },
+    "aspect.honey_bee.activate": {
+        "subtitle": "sound.aspects.aspect.honey_bee.activate",
+        "sounds": [
+            "mob/bee/loop1",
+            "mob/bee/loop2",
+            "mob/bee/loop3",
+            "mob/bee/loop4",
+            "mob/bee/loop5"
+        ]
+    },
+    "aspect.human.activate": {
+        "subtitle": "sound.aspects.aspect.human.activate",
+        "sounds": [
+            "mob/villager/haggle1",
+            "mob/villager/haggle2",
+            "mob/villager/haggle3"
+        ]
+    },
+    "aspect.infernal.activate": {
+        "subtitle": "sound.aspects.aspect.infernal.activate",
+        "sounds": [
+            "mob/blaze/breathe1",
+            "mob/blaze/breathe2",
+            "mob/blaze/breathe3",
+            "mob/blaze/breathe4"
+        ]
+    },
+    "aspect.merling.activate": {
+        "subtitle": "sound.aspects.aspect.merling.activate",
+        "sounds": [
+            "mob/dolphin/idle1",
+            "mob/dolphin/idle2",
+            "mob/dolphin/idle3",
+            "mob/dolphin/idle4",
+            "mob/dolphin/idle5",
+            "mob/dolphin/idle6"
+        ]
+    },
+    "aspect.rascal.activate": {
+        "subtitle": "sound.aspects.aspect.rascal.activate",
+        "sounds": [
+            "block/sculk/charge1",
+            "block/sculk/charge2",
+            "block/sculk/charge3",
+            "block/sculk/charge4",
+            "block/sculk/charge5"
+        ]
+    },
+    "aspect.shulk.activate": {
+        "subtitle": "sound.aspects.aspect.shulk.activate",
+        "sounds": [
+            "entity/shulker/ambient1",
+            "entity/shulker/ambient2",
+            "entity/shulker/ambient3",
+            "entity/shulker/ambient4",
+            "entity/shulker/ambient5",
+            "entity/shulker/ambient6",
+            "entity/shulker/ambient7"
+        ]
+    },
+    "focus.elytrian.using": {
+        "subtitle": "sound.aspects.focus.elytrian.using",
+        "sounds": [
+            "block/bone_block/step1",
+            "block/bone_block/step2",
+            "block/bone_block/step3",
+            "block/bone_block/step4",
+            "block/bone_block/step5"
+        ]
+    },
+    "focus.elytrian.launch": {
+        "subtitle": "sound.aspects.focus.elytrian.launch",
+        "sounds": [
+            "entity/wind_charge/wind_burst1",
+            "entity/wind_charge/wind_burst2",
+            "entity/wind_charge/wind_burst3"
+        ]
+    },
+    "focus.elytrian.dye": {
+        "subtitle": "sound.aspects.focus.elytrian.dye",
+        "sounds": [
+            "item/dye/dye"
+        ]
+    },
+    "focus.enderian.using": {
+        "subtitle": "sound.aspects.focus.enderian.using",
+        "sounds": [
+            "block/amethyst/resonate1",
+            "block/amethyst/resonate2",
+            "block/amethyst/resonate3",
+            "block/amethyst/resonate4"
+        ]
+    },
+    "focus.enderian.teleport": {
+        "subtitle": "sound.aspects.focus.enderian.teleport",
+        "sounds": [
+            "mob/endermen/portal",
+            "mob/endermen/portal2"
+        ]
+    },
+    "focus.feline.using": {
+        "subtitle": "sound.aspects.focus.feline.using",
+        "sounds": [
+            "block/bone_block/step1",
+            "block/bone_block/step2",
+            "block/bone_block/step3",
+            "block/bone_block/step4",
+            "block/bone_block/step5"
+        ]
+    },
+    "focus.feline.lunge": {
+        "subtitle": "sound.aspects.focus.feline.lunge",
+        "sounds": [
+            "entity/wind_charge/wind_burst1",
+            "entity/wind_charge/wind_burst2",
+            "entity/wind_charge/wind_burst3"
+        ]
+    },
+    "focus.honey_bee.using": {
+        "subtitle": "sound.aspects.focus.honey_bee.using",
+        "sounds": [
+            "mob/bee/pollinate1",
+            "mob/bee/pollinate2",
+            "mob/bee/pollinate3",
+            "mob/bee/pollinate4"
+        ]
+    },
+    "focus.honey_bee.extract_effect": {
+        "subtitle": "sound.aspects.focus.honey_bee.extract_effect",
+        "sounds": [
+            "item/dye/dye"
+        ]
+    },
+    "focus.honey_bee.produce_honey": {
+        "subtitle": "sound.aspects.focus.honey_bee.produce_honey",
+        "sounds": [
+            "item/bottle/drink_honey1",
+            "item/bottle/drink_honey2",
+            "item/bottle/drink_honey3"
+        ]
+    },
+    "focus.honey_bee.modify_honey": {
+        "subtitle": "sound.aspects.focus.honey_bee.modify_honey",
+        "sounds": [
+            "block/honeyblock/slide1",
+            "block/honeyblock/slide2",
+            "block/honeyblock/slide3",
+            "block/honeyblock/slide4"
+        ]
+    },
+    "focus.honey_bee.check_effect": {
+        "subtitle": "sound.aspects.focus.honey_bee.check_effect",
+        "sounds": [
+            "item/dye/dye"
+        ]
+    },
+    "focus.honey_bee.fail": {
+        "subtitle": "sound.aspects.focus.honey_bee.fail",
+        "sounds": [
+            "entity/endereye/dead1",
+            "entity/endereye/dead2"
+        ]
+    },
+    "focus.infernal.using": {
+        "subtitle": "sound.aspects.focus.infernal.using",
+        "sounds": [
+            "mob/ghast/fireball4"
+        ]
+    },
+    "focus.infernal.combust": {
+        "subtitle": "sound.aspects.focus.infernal.combust",
+        "sounds": [
+            "fire/ignite"
+        ]
+    },
+    "focus.merling.using": {
+        "subtitle": "sound.aspects.focus.merling.using",
+        "sounds": [
+            "entity/fish/flop1",
+            "entity/fish/flop2",
+            "entity/fish/flop3",
+            "entity/fish/flop4"
+        ]
+    },
+    "focus.merling.echolocate": {
+        "subtitle": "sound.aspects.focus.merling.echolocate",
+        "sounds": [
+            "block/respawn_anchor/set_spawn1",
+            "block/respawn_anchor/set_spawn2",
+            "block/respawn_anchor/set_spawn3"
+        ]
+    },
+    "focus.rascal.using": {
+        "subtitle": "sound.aspects.focus.rascal.using",
+        "sounds": [
+            "block/sculk/break1",
+            "block/sculk/break2",
+            "block/sculk/break3",
+            "block/sculk/break4",
+            "block/sculk/break5",
+            "block/sculk/break6",
+            "block/sculk/break7",
+            "block/sculk/break8",
+            "block/sculk/break9",
+            "block/sculk/break10",
+            "block/sculk/break11",
+            "block/sculk/break12",
+            "block/sculk/break13",
+            "block/sculk/break14"
+
+        ]
+    },
+    "focus.rascal.dissipate": {
+        "subtitle": "sound.aspects.focus.rascal.dissipate",
+        "sounds": [
+            "mob/endermen/portal",
+            "mob/endermen/portal2"
+        ]
+    },
+    "focus.shulk.using": {
+        "subtitle": "sound.aspects.focus.shulk.using",
+        "sounds": [
+            "block/shulker_box/open"
+
+        ]
+    },
+    "focus.shulk.store_container": {
+        "subtitle": "sound.aspects.focus.shulk.store_container",
+        "sounds": [
+            "block/chest/close1",
+            "block/chest/close2",
+            "block/chest/close3"
+        ]
+    },
+    "focus.shulk.retrieve_container": {
+        "subtitle": "sound.aspects.focus.shulk.retrieve_container",
+        "sounds": [
+            "block/chest/open"
+        ]
+    },
+    "focus.shulk.camouflage": {
+        "subtitle": "sound.aspects.focus.shulk.camouflage",
+        "sounds": [
+            "entity/shulker/close1",
+            "entity/shulker/close2",
+            "entity/shulker/close3",
+            "entity/shulker/close4",
+            "entity/shulker/close5"
+        ]
+    },
+    "focus.shulk.fail": {
+        "subtitle": "sound.aspects.focus.shulk.fail",
+        "sounds": [
+            "entity/endereye/dead1",
+            "entity/endereye/dead2"
+        ]
+    }
+}
