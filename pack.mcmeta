@@ -10,15 +10,18 @@
 				"text": "PR1",
 				"color": "dark_purple"
 			},
-			" | ",
+			{
+				"text": " | ",
+				"color": "dark_gray"
+			},
 			{
 				"text": "Aspects Resources",
-				"color": "aqua"
-			}
+				"color": "gray"
+			},
 			"\n",
 			{
-				"text": "Powers? Downsides?",
-				"color": "aqua"
+				"text": "By CyraLX, Efimity and Ather",
+				"color": "dark_gray"
 			}
 		]
 	}
