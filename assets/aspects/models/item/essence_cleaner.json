@@ -1,3 +1,6 @@
 {
-    "parent": "minecraft:item/breeze_rod"
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "aspects:item/essence_cleaner"
+    }
 }
