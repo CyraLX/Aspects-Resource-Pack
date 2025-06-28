@@ -3,11 +3,11 @@
 		"pack_format": 55,
 		"supported_formats": {
 			"min_inclusive": 55,
-			"max_inclusive": 63
+			"max_inclusive": 64
 		},
 		"description": [
 			{
-				"text": "v1.0",
+				"text": "v1.01",
 				"color": "dark_purple"
 			},
 			{
