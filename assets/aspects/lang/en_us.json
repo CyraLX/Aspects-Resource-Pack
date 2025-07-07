@@ -1,18 +1,15 @@
 {
     "aspects": "Aspects",
     "aspect": "Aspect",
-    
     "datapack.aspects.description.header_format": "%1$s | %2$s",
     "datapack.aspects.description.header": "Use unique Powers",
     "datapack.aspects.description.footer": "Take Creature Features",
-    
     "death.attack.hydrophobia": "%1$s couldn't handle a shower",
     "death.attack.hydrophobia.item": "%1$s tried to swim in water to escape %2$s using %3$s",
     "death.attack.hydrophobia.player": "%1$s tried to swim in water to escape %2$s",
     "death.attack.obliterated": "%1$s got absolutely obliterated",
     "death.attack.obliterated.item": "%1$s was absolutely obliterated by %2$s using %3$s",
     "death.attack.obliterated.player": "%1$s was absolutely obliterated by %2$s",
-
     "advancements.aspects.root": "Aspects",
     "advancements.aspects.root.description": "Your change is imminent",
     "advancements.aspects.get_essence_cage": "The Collector",
@@ -77,7 +74,6 @@
     "advancements.aspects.aspect.rascal.root": "Aspect: Rascal",
     "advancements.aspects.aspect.rascal.root.description": "Become a Rascal",
     "advancements.aspects.aspect.rascal.root.lore": "They yearn for the mines",
-
     "lore.equipment.use_cooldown_format": "%1$s: %2$s",
     "lore.equipment.use_cooldown": "Cooldown",
     "lore.equipment.use_cooldown.extremely_long": "Extremely Long",
@@ -114,7 +110,6 @@
     "lore.essence.undead": "Undead",
     "lore.essence.void": "Void",
     "lore.essence.wild": "Wild",
-
     "dialog.aspects.choose_aspect": "Choose your Aspect",
     "dialog.aspects.choose_aspect.external_title": "Choose from Aspect",
     "dialog.aspects.choose_aspect.lore": "A deal was made, though you have no memory of it.\nNow, claim your reward.",
@@ -259,12 +254,10 @@
     "dialog.aspects.custom_items.aspect_focuses": "%1$s | Aspect Focuses",
     "dialog.aspects.custom_items.aspect_focuses.external_title": "%1$s | Aspect Focuses",
     "dialog.aspects.custom_items.aspect_focuses.description": "Aspect Focuses have many different versions per each Aspect (minus %s) thus have many different uses based on what aspect version it is\n\nThe recipe is also version dependent so please check out the Recipe Book when crafting at a Crafting Table!",
-
     "item.modifiers.consume": "When consumed:",
     "item.modifiers.use": "When used:",
     "item.modifiers.use_mainhand": "When used in Main Hand:",
     "item.modifiers.use_offhand": "When used in Off Hand:",
-
     "item.aspects.aspect_picker": "Aspects: Your Begginings...",
     "item.aspects.aspect_picker.tooltip": "Select your Aspect from Aspects with this book",
     "item.aspects.aspect_encyclopedia": "Aspect Encyclopedia",
@@ -451,6 +444,7 @@
     "item.aspects.focus.feline.use_name_1": "Pounce",
     "item.aspects.focus.feline.use_result_1": "High jump into the air",
     "item.aspects.focus.honey_bee": "Honey Bee's Focus",
+    "item.aspects.focus.honey_bee.stored_effect": "Stored Effect: %s",
     "item.aspects.focus.honey_bee.use_name_1": "Extract Effect",
     "item.aspects.focus.honey_bee.use_name_2": "Produce Honey",
     "item.aspects.focus.honey_bee.use_name_3": "Modify Honey",
@@ -494,7 +488,6 @@
     "item.aspects.focus.rascal.use_result_3": "Teleport randomly within a very large area",
     "item.aspects.focus.rascal.use_result_4": "Teleport randomly within a medium area",
     "item.aspects.suspicious_honey": "Suspicious Honey",
-
     "aspect.aspects.human": "Human",
     "aspect.aspects.human.description": "Well-documented throughout history, they are as close a match to a normal person as possible",
     "aspect.aspects.merling": "Merling",
@@ -513,7 +506,6 @@
     "aspect.aspects.honey_bee.description": "Master of Nature, Flowers and Honey. Can be very friendly, but if forced into something, good results aren't guaranteed.",
     "aspect.aspects.rascal": "Rascal",
     "aspect.aspects.rascal.description": "Spawn of The Underground, perfected to be one with darkness, but not as much with the light...",
-
     "aspect.aspects.generic.aquatic": "Aquatic",
     "aspect.aspects.generic.aquatic.description": "They do not require oxygen to survive, instead needing to maintain moisture by exposing themselves to water to prevent drying out.\nThe Impaling enchantment deals additional damage to them.",
     "aspect.aspects.generic.hydrophobic": "Hydrophobic",
@@ -527,7 +519,7 @@
     "aspect.aspects.enderian.slender_body": "Slender Body",
     "aspect.aspects.enderian.slender_body.description": "Elongated body and limbs makes them much larger, but allow for reach and general health increases.",
     "aspect.aspects.enderian.end_attuned": "End Attuned",
-    "aspect.aspects.enderian.end_attuned.description": "Distortions of space is natural to you, the likes of Ender Pearls do no harm to you.",
+    "aspect.aspects.enderian.end_attuned.description": "Distortions of space is natural to them, the likes of Ender Pearls do no harm.",
     "aspect.aspects.shulk.small_footprint": "Small Footprint",
     "aspect.aspects.shulk.small_footprint.description": "They are tiny in size and easy to kill due to their low health.",
     "aspect.aspects.shulk.febile_limbs": "Febile Limbs",
@@ -555,7 +547,7 @@
     "aspect.aspects.elytrian.winged_body": "Winged Body",
     "aspect.aspects.elytrian.winged_body.description": "They are ever-so slightly smaller than a normal human while carrying a unique set of wings!\nDue to the unique design of their wings, armor cannot be worn, as the wings require ample space to function properly.\nThe Elytra can be damaged and will need repairing via Experience.",
     "aspect.aspects.elytrian.elytra_natural": "Elytra Natural",
-    "aspect.aspects.elytrian.elytra_natural.description": "Unlike an Elytra, they can hold Crouch mid-flight to descend faster.",
+    "aspect.aspects.elytrian.elytra_natural.description": "Unlike an normal Elytra, they get more attack damage mid-flight and can hold Crouch to descend faster.",
     "aspect.aspects.elytrian.brittle_bones": "Brittle Form",
     "aspect.aspects.elytrian.brittle_bones.description": "They are usually not exposed to fall damage due to them being skilled flyers, but if it happens, it will hurt, A LOT.\nThey also damage their wings when using Firework Rockets!",
     "aspect.aspects.honey_bee.bee_sized": "Bee Sized",
@@ -568,18 +560,14 @@
     "aspect.aspects.rascal.cave_attuned.description": "They are smaller in size, allowing them to squeeze into tight spaces, but this comes at the cost of reduced health and a shorter effective attack range. However, they are exceptionally good at mining blocks from a distance.",
     "aspect.aspects.rascal.spawn_of_darkness": "Spawn of Darkness",
     "aspect.aspects.rascal.spawn_of_darkness.description": "Within the Darkness, they can reach their fullest potential, but they are extremely photosensitive.\nWhile in dark spaces, they move much faster, deal slightly more damage, mine somewhat faster, and attack a bit quicker.\nWhen exposed to sunlight, they move noticeably slower, deal significantly less damage, mine more slowly, and attack less quickly.",
-
     "enchantment.aspects.unobtainable": "Temporary Enchantment",
     "enchantment.aspects.water_ward": "Water Ward",
     "enchantment.aspects.water_ward.description": "Delays damage taken from water for Hydrophobic Aspects",
     "enchantment.aspects.elytrian_wings": "Cloud Endurance",
     "enchantment.aspects.honey_bee_wings": "Exoskeleton Wings",
     "enchantment.aspects.power.feline.predator": "Feline: Predator",
-    
     "entity.aspects.explorer": "The Wayferer",
-    
     "effect.minecraft.none": "None",
-
     "sound.aspects.aspect.elytrian.activate": "Elytrian awakens",
     "sound.aspects.aspect.enderian.activate": "Enderian awakens",
     "sound.aspects.aspect.feline.activate": "Feline meows",
@@ -589,7 +577,6 @@
     "sound.aspects.aspect.merling.activate": "Merling awakens",
     "sound.aspects.aspect.rascal.activate": "Rascal awakens",
     "sound.aspects.aspect.shulk.activate": "Shulk awakens",
-
     "sound.aspects.focus.elytrian.using": "Elytrian's Focus charges up",
     "sound.aspects.focus.elytrian.launch": "Elytrian launches up",
     "sound.aspects.focus.elytrian.dye": "Dye stains",
