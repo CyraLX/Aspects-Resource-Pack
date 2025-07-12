@@ -91,6 +91,7 @@
     "lore.equipment.use_time.very_long": "Very Long",
     "lore.equipment.use_time.long": "Long",
     "lore.equipment.use_time.average": "Average",
+    "lore.equipment.use_time.fast": "Fast",
     "lore.equipment.use_time.very_fast": "Very Fast",
     "lore.equipment.use_time.extremely_fast": "Extremely Fast",
     "lore.equipment.use_time.instant": "Instant",
