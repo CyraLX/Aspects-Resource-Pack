@@ -182,6 +182,8 @@
     "dialog.aspects.enchantments.compatible_with.feet": "Boots",
     "dialog.aspects.enchantments.compatible_with.shield": "Shields",
     "dialog.aspects.enchantments.compatible_with.elytra": "Elytras",
+    "dialog.aspects.enchantments.compatible_with.skulls": "Skulls",
+    "dialog.aspects.enchantments.compatible_with.carved_pumpkin": "Carved Pumpkins",
     "dialog.aspects.enchantments.compatible_with.item": "Any Held Item",
     "dialog.aspects.enchantments.compatible_with.sword": "Swords",
     "dialog.aspects.enchantments.compatible_with.axe": "Axes",

@@ -182,6 +182,8 @@
     "dialog.aspects.enchantments.compatible_with.feet": "Batai",
     "dialog.aspects.enchantments.compatible_with.shield": "Skydams",
     "dialog.aspects.enchantments.compatible_with.elytra": "Sparnams",
+    "dialog.aspects.enchantments.compatible_with.skulls": "Kaukolės",
+    "dialog.aspects.enchantments.compatible_with.carved_pumpkin": "Išskobtas moliūgas",
     "dialog.aspects.enchantments.compatible_with.item": "Bet kokiam laikomam daiktui",
     "dialog.aspects.enchantments.compatible_with.sword": "Kardams",
     "dialog.aspects.enchantments.compatible_with.axe": "Kirviams",
