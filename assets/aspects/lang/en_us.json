@@ -756,7 +756,7 @@
     "aspect.aspects.feline.water": "§lWater",
     "aspect.aspects.feline.water.description": "Being wet is the end of the world for them! Well, not literally.\nWhile wet they are drastically slowed down, and even worse in actual water.",
     "aspect.aspects.infernal.might_of_the_fire": "Might of the Fire",
-    "aspect.aspects.infernal.might_of_the_fire.description": "Fire seems to be completely harmless to them, in fact, it actually empowers their damage further!",
+    "aspect.aspects.infernal.might_of_the_fire.description": "Fire seems to be completely harmless to them, in fact, it actually empowers their damage further! However not being On Fire slows their attacks down.",
     "aspect.aspects.infernal.burning_blood": "Burning Blood",
     "aspect.aspects.infernal.burning_blood.description": "Attempting to Poison, Infest or give Weakness to them while they are On Fire will not work, they will just shrug it off.",
     "aspect.aspects.infernal.too_hot": "Too Hot to Handle",
