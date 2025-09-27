@@ -17,6 +17,7 @@
     "scoreboard.aspects.aspect_stats.total": "Toplamda Kaç Kere Seçildi",
     "scoreboard.aspects.aspect_stats.faded": "Toplamda Kaç Kere Silindi",
     "scoreboard.aspects.aspect_stats.first_pick": "İlk Seçimleri Olarak Seçildi",
+    "scoreboard.aspects.aspect_stats.focus_uses": "Odak'ı Kullanma Sayısı",
     "advancements.aspects.root": "Aspects",
     "advancements.aspects.root.description": "Değişimin yakın",
     "advancements.aspects.get_essence_cage": "The Collector",

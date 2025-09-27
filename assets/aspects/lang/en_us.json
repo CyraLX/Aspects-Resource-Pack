@@ -17,6 +17,7 @@
     "scoreboard.aspects.aspect_stats.total": "Times it was picked overall",
     "scoreboard.aspects.aspect_stats.faded": "Times it was removed overall",
     "scoreboard.aspects.aspect_stats.first_pick": "Picked as their first choice",
+    "scoreboard.aspects.aspect_stats.focus_uses": "Uses of their Focus",
     "advancements.aspects.root": "Aspects",
     "advancements.aspects.root.description": "Your change is imminent",
     "advancements.aspects.get_essence_cage": "The Collector",
