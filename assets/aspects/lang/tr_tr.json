@@ -447,6 +447,7 @@
     "dataPack.aspects.description.footer": "Yaratıkların Özelliklerini Al",
     "dataPack.aspects.description.header": "Özel Güçler Kullan",
     "dataPack.aspects.description.header_format": "%1$s | %2$s",
+    "dataPack.aspects.resource_pack_validate": "",
     "death.attack.hydrophobia": "%1$s duş almaya dayanamadı",
     "death.attack.hydrophobia.item": "%1$s suda yüzerek %3$s'ı kullanan %2$s'den kaçmaya çalıştı",
     "death.attack.hydrophobia.player": "%1$s suda yüzerek %2$s'den kaçmaya çalıştı",

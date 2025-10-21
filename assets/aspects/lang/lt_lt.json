@@ -447,6 +447,7 @@
     "dataPack.aspects.description.footer": "Įsisavink būtybių ypatybes",
     "dataPack.aspects.description.header": "Naudok unikalius galias",
     "dataPack.aspects.description.header_format": "%1$s | %2$s",
+    "dataPack.aspects.resource_pack_validate": "",
     "death.attack.hydrophobia": "%1$s nesugebėjo pakęsti dušo",
     "death.attack.hydrophobia.item": "%1$s bandė plaukti vandenyje, kad pabėgtų nuo %2$s naudodamas %3$s",
     "death.attack.hydrophobia.player": "%1$s bandė plaukti vandenyje, kad pabėgtų nuo %2$s",

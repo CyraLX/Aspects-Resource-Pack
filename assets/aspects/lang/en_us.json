@@ -447,6 +447,7 @@
     "dataPack.aspects.description.footer": "Take Creature Features",
     "dataPack.aspects.description.header": "Use unique Powers",
     "dataPack.aspects.description.header_format": "%1$s | %2$s",
+    "dataPack.aspects.resource_pack_validate": "",
     "death.attack.hydrophobia": "%1$s couldn't handle a shower",
     "death.attack.hydrophobia.item": "%1$s tried to swim in water to escape %2$s using %3$s",
     "death.attack.hydrophobia.player": "%1$s tried to swim in water to escape %2$s",
