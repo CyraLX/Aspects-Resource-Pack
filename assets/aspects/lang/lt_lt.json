@@ -1,8 +1,8 @@
 {
     "aspect": "Aspektas",
     "aspects": "Aspektai",
-    "addon.dependency_missmatch.max": "Įdiegtas priedas \"%1$s\" reikalauja senesnės \"%2$s\" versijos!\nAtnaujinkite \"%2$s\" į suderinamą versiją!\n\nTikėtasi \"%2$s\" paketo formato %3$s (įtraukiantis), bet rasta %4$s.",
-    "addon.dependency_missmatch.min": "Įdiegtas priedas \"%1$s\" reikalauja naujesnės \"%2$s\" versijos!\nAtnaujinkite \"%2$s\" į suderinamą versiją!\n\nTikėtasi \"%2$s\" paketo formato %3$s (įtraukiantis), bet rasta %4$s.",
+    "addon.dependency_missmatch.max": "Priedas \"%1$s\" priklauso nuo senesnės \"%2$s\" versijos!\nPakeiskite \"%2$s\" į versiją, kuri atitinka paketo formatus %3$s.",
+    "addon.dependency_missmatch.min": "Priedas \"%1$s\" priklauso nuo naujesnės \"%2$s\" versijos!\nPakeiskite \"%2$s\" į versiją, kuri atitinka paketo formatus %3$s.",
     "advancements.aspects.aspect.become_any": "Sugadintas",
     "advancements.aspects.aspect.become_any.description": "Tapk Aspektu",
     "advancements.aspects.aspect.become_any.lore": "Pamiršai kažką, ko niekada nebeatsigausi…",
