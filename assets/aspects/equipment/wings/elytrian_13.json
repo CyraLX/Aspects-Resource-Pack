@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "wings": [
+            {
+                "texture": "aspects:elytrian_13",
+                "use_player_texture": true
+            }
+        ]
+    }
+}
