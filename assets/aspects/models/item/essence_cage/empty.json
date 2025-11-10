@@ -1,7 +1,7 @@
 {
 	"parent": "aspects:item/essence_cage/without_essence_parent",
 	"textures": {
-		"all": "aspects:item/essence_cage/base_cage",
+		"all": "aspects:block/essence_cage/base_cage",
 		"glass": "minecraft:block/glass"
 	}
 }
