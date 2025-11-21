@@ -944,5 +944,19 @@
     "scoreboard.aspects.aspect_stats.faded": "Toplamda Kaç Kere Silindi",
     "scoreboard.aspects.aspect_stats.first_pick": "İlk Seçimleri Olarak Seçildi",
     "scoreboard.aspects.aspect_stats.focus_uses": "Odak'ı Kullanma Sayısı",
-    "scoreboard.aspects.aspect_stats.total": "Toplamda Kaç Kere Seçildi"
+    "scoreboard.aspects.aspect_stats.total": "Toplamda Kaç Kere Seçildi",
+    "badge_details.aspects.effect.damage_protection_add": "Add %1$s Protection from %2$s Damage",
+    "badge_details.aspects.effect.damage_protection_add_modifiers": "Add %1$s Protection from %2$s Damage %3$s",
+    "badge_details.aspects.effect.damage_protection_multiply": "Multiply Protection from %2$s Damage by %1$s",
+    "badge_details.aspects.effect.damage_protection_multiply_modifiers": "Multiply Protection from %2$s Damage by %1$s %3$s",
+    "badge_details.aspects.effect.damage_protection_set": "Set Protection from %2$s Damage to %1$s",
+    "badge_details.aspects.effect.damage_protection_set_modifiers": "Set Protection from %2$s Damage to %1$s %3$s",
+    "item.modifiers.held_mainhand": "When held in Main Hand:",
+    "item.modifiers.held_offhand": "When held in Off Hand:",
+    "item.modifiers.use_sneak": "When used while Sneaking:",
+    "item.modifiers.use_sneak_not": "When used while not Sneaking:",
+    "item.modifiers.use_mainhand_sneak": "Eğilirken Ana Eldeyken kullanıldığında:",
+    "item.modifiers.use_mainhand_sneak_not": "Eğilmezken Ana Eldeyken kullanıldığında:",
+    "item.modifiers.use_offhand_sneak": "Eğilirken Diğer Eldeyken kullanıldığında:",
+    "item.modifiers.use_offhand_sneak_not": "Eğilmezken Diğer Eldeyken kullanıldığında:"
 }
