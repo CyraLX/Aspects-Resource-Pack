@@ -1,6 +1,6 @@
 {
     "parent": "aspects:item/relic/faded/parent",
     "textures": {
-        "layer0": "aspects:item/relic/faded/merling"
+        "layer1": "aspects:item/relic/faded/merling"
     }
 }

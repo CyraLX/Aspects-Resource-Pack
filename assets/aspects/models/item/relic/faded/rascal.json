@@ -1,6 +1,6 @@
 {
     "parent": "aspects:item/relic/faded/parent",
     "textures": {
-        "layer0": "aspects:item/relic/faded/rascal"
+        "layer1": "aspects:item/relic/faded/rascal"
     }
 }
