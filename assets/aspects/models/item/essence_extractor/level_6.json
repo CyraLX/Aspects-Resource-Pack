@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "aspects:item/essence_extractor"
+        "layer0": "aspects:item/essence_extractor/level_6"
     }
 }

@@ -1,6 +1,76 @@
 {
     "model": {
-        "type": "minecraft:model",
-        "model": "aspects:item/essence_extractor"
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:enchantments",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "aspects:item/essence_extractor/level_7"
+        },
+        "cases": [
+            {
+                "when": {
+                    "aspects:essence_extractor/mainhand": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_extractor/level_1"
+                }
+            },
+            {
+                "when": {
+                    "aspects:essence_extractor/mainhand": 2
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_extractor/level_2"
+                }
+            },
+            {
+                "when": {
+                    "aspects:essence_extractor/mainhand": 3
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_extractor/level_3"
+                }
+            },
+            {
+                "when": {
+                    "aspects:essence_extractor/mainhand": 4
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_extractor/level_4"
+                }
+            },
+            {
+                "when": {
+                    "aspects:essence_extractor/mainhand": 5
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_extractor/level_5"
+                }
+            },
+            {
+                "when": {
+                    "aspects:essence_extractor/mainhand": 6
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_extractor/level_6"
+                }
+            },
+            {
+                "when": {
+                    "aspects:essence_extractor/mainhand": 7
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_extractor/level_7"
+                }
+            }
+        ]
     }
 }
