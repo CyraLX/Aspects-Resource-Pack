@@ -750,6 +750,7 @@
     "item.aspects.essence_cleaner.use_result_1": "Remove stored Essences and Aspects from held Essence Cage",
     "item.aspects.essence_extractor": "Essence Extractor",
     "item.aspects.essence_extractor.extra_essence_damage": "%1$s %2$s against mobs with Essences",
+    "item.aspects.essence_extractor.kill_counter": "Essence Bearer's Vanquished: %s",
     "item.aspects.essence_extractor.disclaimer": "Essence can only be extracted once per mob",
     "item.aspects.essence_extractor.use_result_1": "Extract passive mobs Essences into held Essence Cage once",
     "item.aspects.faded_relic.elytrian": "Faded Relic of Elytrian",
