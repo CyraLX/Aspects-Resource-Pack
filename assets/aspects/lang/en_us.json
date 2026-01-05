@@ -1007,5 +1007,21 @@
     "scoreboard.aspects.aspect_stats.faded": "Times it was removed overall",
     "scoreboard.aspects.aspect_stats.first_pick": "Picked as their first choice",
     "scoreboard.aspects.aspect_stats.focus_uses": "Uses of their Focus",
-    "scoreboard.aspects.aspect_stats.total": "Times it was picked overall"
+    "scoreboard.aspects.aspect_stats.total": "Times it was picked overall",
+    
+    "advancements.aspects.aspect.rascal.a_dim_idea": "A Dim Idea",
+    "advancements.aspects.aspect.rascal.a_dim_idea.description": "Use soul-based light sources to illuminate areas in order to avoid the negative effects of exposure to light",
+    "advancements.aspects.aspect.rascal.a_dim_idea.lore": "Blue light filter",
+    "advancements.aspects.aspect.shulk.back_home": "Back Home",
+    "advancements.aspects.aspect.shulk.back_home.description": "Camouflage as a Shulker Box in an End City",
+    "advancements.aspects.aspect.shulk.back_home.lore": "Not too out of place, huh?",
+    "advancements.aspects.get_awakened_essence_cage": "It Awakens",
+    "advancements.aspects.get_awakened_essence_cage.description": "Obtain an Awakened Essence Cage",
+    "advancements.aspects.get_awakened_essence_cage.lore": "It yearns for a host",
+    "advancements.aspects.get_essence_extractor": "The Tool",
+    "advancements.aspects.get_essence_extractor.description": "Obtain an Essence Extractor",
+    "advancements.aspects.get_essence_extractor.lore": "Harvesting season begins",
+    "advancements.aspects.get_essence_extractor_max": "The Harvester",
+    "advancements.aspects.get_essence_extractor_max.description": "Obtain a Max Level Essence Extractor",
+    "advancements.aspects.get_essence_extractor_max.lore": "It pulsates"
 }
