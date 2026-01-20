@@ -979,5 +979,12 @@
     "advancements.aspects.get_essence_extractor.lore": "Harvesting season begins",
     "advancements.aspects.get_essence_extractor_max": "The Harvester",
     "advancements.aspects.get_essence_extractor_max.description": "Obtain a Max Level Essence Extractor",
-    "advancements.aspects.get_essence_extractor_max.lore": "It pulsates"
+    "advancements.aspects.get_essence_extractor_max.lore": "It pulsates",
+    
+    "config.aspects.enderian.teleport_forward_distance": "Enderian's Focus' Forward Teleport Distance",
+    "config.aspects.enderian.teleport_forward_distance.description": "How far Enderian can teleport forward by using the Focus in quarter blocks",
+    "config.aspects.enderian.teleport_forward_distance.note": "(For example 100 will be interpreted as 25 blocks)",
+    "config.aspects.enderian.teleport_downward_distance": "Enderian's Focus' Downward Teleport Distance",
+    "config.aspects.enderian.teleport_downward_distance.description": "When Enderian teleports by using the Focus, and the maximum forward distance is reached, this determines how far down teleportation will check for a solid block before failing, in quarter blocks",
+    "config.aspects.enderian.teleport_downward_distance.note": "(For example 100 will be interpreted as 25 blocks)"
 }
