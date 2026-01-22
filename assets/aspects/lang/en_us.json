@@ -986,5 +986,7 @@
     "config.aspects.enderian.teleport_forward_distance.note": "(For example 100 will be interpreted as 25 blocks)",
     "config.aspects.enderian.teleport_downward_distance": "Enderian's Focus' Downward Teleport Distance",
     "config.aspects.enderian.teleport_downward_distance.description": "When Enderian teleports by using the Focus, and the maximum forward distance is reached, this determines how far down teleportation will check for a solid block before failing, in quarter blocks",
-    "config.aspects.enderian.teleport_downward_distance.note": "(For example 100 will be interpreted as 25 blocks)"
+    "config.aspects.enderian.teleport_downward_distance.note": "(For example 100 will be interpreted as 25 blocks)",
+    "item.aspects.essence_cage_collector": "Collector's Essence Cage",
+    "item.aspects.essence_cage_collector.footer": "Gotta catch em all"
 }
