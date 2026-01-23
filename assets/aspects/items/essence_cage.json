@@ -6,17 +6,49 @@
 		"value": {
 			"aspects": {
 				"essence_cage": {
-					"stored_essences": {}
+					"is_collector": true
 				}
 			}
 		},
 		"on_true": {
-			"type": "minecraft:model",
-			"model": "aspects:item/essence_cage/contains"
+			"type": "minecraft:condition",
+			"property": "minecraft:component",
+			"predicate": "minecraft:custom_data",
+			"value": {
+				"aspects": {
+					"essence_cage": {
+						"stored_essences": {}
+					}
+				}
+			},
+			"on_true": {
+				"type": "minecraft:model",
+				"model": "aspects:item/essence_cage/collector/contains"
+			},
+			"on_false": {
+				"type": "minecraft:model",
+				"model": "aspects:item/essence_cage/collector/empty"
+			}
 		},
 		"on_false": {
-			"type": "minecraft:model",
-			"model": "aspects:item/essence_cage/empty"
+			"type": "minecraft:condition",
+			"property": "minecraft:component",
+			"predicate": "minecraft:custom_data",
+			"value": {
+				"aspects": {
+					"essence_cage": {
+						"stored_essences": {}
+					}
+				}
+			},
+			"on_true": {
+				"type": "minecraft:model",
+				"model": "aspects:item/essence_cage/contains"
+			},
+			"on_false": {
+				"type": "minecraft:model",
+				"model": "aspects:item/essence_cage/empty"
+			}
 		}
 	}
 }

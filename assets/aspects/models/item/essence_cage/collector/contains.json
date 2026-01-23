@@ -1,0 +1,9 @@
+{
+	"parent": "aspects:item/essence_cage/with_essence_parent",
+	"textures": {
+		"all": "aspects:block/essence_cage/collector_cage",
+		"glass": "minecraft:block/glass",
+		"essence": "aspects:block/essence_cage/essence_very_slow",
+        "particle": "#essence"
+	}
+}
