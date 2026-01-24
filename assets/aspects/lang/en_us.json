@@ -3,6 +3,7 @@
     "aspects": "Aspects",
     "addon.dependency_missmatch.max": "Addon \"%1$s\" depends on an older version of \"%2$s\"!\nReplace \"%2$s\" with versions that are within pack formats %3$s.",
     "addon.dependency_missmatch.min": "Addon \"%1$s\" depends on a newer version of \"%2$s\"!\nReplace \"%2$s\" with versions that are within pack formats %3$s.",
+    "addon.dependency_missmatch.missing": "Addon \"%1$s\" depends on \"%2$s\"!\nInstall \"%2$s\" with versions that are within pack formats %3$s.",
     "advancements.aspects.aspect.become_any": "Corrupted",
     "advancements.aspects.aspect.become_any.description": "Become an Aspect",
     "advancements.aspects.aspect.become_any.lore": "You've lost something you will never get back...",
