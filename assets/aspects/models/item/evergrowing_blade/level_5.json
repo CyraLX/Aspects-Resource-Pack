@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "aspects:item/essence_extractor/level_2"
+        "layer0": "aspects:item/evergrowing_blade/level_5"
     }
 }
