@@ -166,7 +166,7 @@
     "badge_details.aspects.effect.heal_health": "%s Can İyileştir",
     "badge_details.aspects.effect.heal_thing": "%1$s %2$s İyileştir",
     "badge_details.aspects.effect.ignite_attacker": "Saldıranı %s boyunca yak",
-    "badge_details.aspects.effect.ignite_self": "Kendini %s boyunca yak",
+    "badge_details.aspects.effect.ignite_user": "Kendini %s boyunca yak",
     "badge_details.aspects.effect.ignite_victim": "Kurbanı %s boyunca yak",
     "badge_details.aspects.effect.immune_to": "%s'a Bağışık",
     "badge_details.aspects.effect.reduce": "%s'i Azalt",

@@ -166,7 +166,7 @@
     "badge_details.aspects.effect.heal_health": "Gyja %s gyvybės",
     "badge_details.aspects.effect.heal_thing": "Gyja %2$s %1$s",
     "badge_details.aspects.effect.ignite_attacker": "Uždegti puolėją %s",
-    "badge_details.aspects.effect.ignite_self": "Uždegti save %s",
+    "badge_details.aspects.effect.ignite_user": "Uždegti save %s",
     "badge_details.aspects.effect.ignite_victim": "Uždegti auką %s",
     "badge_details.aspects.effect.immune_to": "Atsparus %s",
     "badge_details.aspects.effect.reduce": "Sumažinti %s",
