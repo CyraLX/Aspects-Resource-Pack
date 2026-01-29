@@ -151,6 +151,38 @@
                     "type": "minecraft:model",
                     "model": "aspects:item/essence_cage/awakened/shulk"
                 }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": {
+                                "namespace": "aspects",
+                                "name": "arachnid"
+                            }
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/arachnid"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": {
+                                "namespace": "aspects",
+                                "name": "rotten"
+                            }
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/rotten"
+                }
             }
         ]
     }
