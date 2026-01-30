@@ -161,7 +161,6 @@
     "badge_details.aspects.effect.drain": "Nutekėti %s",
     "badge_details.aspects.effect.drain_by": "Nutekėti %2$s %1$s",
     "badge_details.aspects.effect.give_potion_effect": "Suteikia %s eliksyro efektą",
-    "badge_details.aspects.effect.give_potion_effect_amplified": "Suteikia %1$s %2$s eliksyro efektą",
     "badge_details.aspects.effect.heal_absorption": "Gyja %s sugertos gyvybės",
     "badge_details.aspects.effect.heal_health": "Gyja %s gyvybės",
     "badge_details.aspects.effect.heal_thing": "Gyja %2$s %1$s",

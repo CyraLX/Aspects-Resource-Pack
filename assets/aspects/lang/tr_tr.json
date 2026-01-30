@@ -161,7 +161,6 @@
     "badge_details.aspects.effect.drain": "%s'i Tüket",
     "badge_details.aspects.effect.drain_by": "%1$s'i %2$s Kadar Tüket",
     "badge_details.aspects.effect.give_potion_effect": "%s İksir Etkisi Verir",
-    "badge_details.aspects.effect.give_potion_effect_amplified": "%1$s %2$s İksir Etkisi Verir",
     "badge_details.aspects.effect.heal_absorption": "%s Emilim Canı İyileştir",
     "badge_details.aspects.effect.heal_health": "%s Can İyileştir",
     "badge_details.aspects.effect.heal_thing": "%1$s %2$s İyileştir",
