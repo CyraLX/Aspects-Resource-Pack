@@ -747,6 +747,8 @@
     "extra.aspects.toggle": "Toggle",
     "extra.aspects.op": "OP",
     "extra.aspects.operator": "Operator",
+    "extra.aspects.focus_power": "Focus Power",
+    "extra.aspects.focus_powers": "Focus Powers",
     "extra.aspects.aspect_effect": "Aspect Effect",
     "extra.aspects.aspect_effects": "Aspect Effects",
     "extra.aspects.server": "Server",
