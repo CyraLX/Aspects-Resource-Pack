@@ -870,6 +870,8 @@
     "item.aspects.evergrowing_blade": "Evergrowing Blade",
     "item.aspects.evergrowing_blade.extra_essence_damage": "%1$s %2$s against mobs with Essences",
     "item.aspects.evergrowing_blade.kill_counter": "Essence Bearer's Vanquished: %s",
+    "item.aspects.evergrowing_blade.kill_counter.format_progress": "%1$s/%2$s",
+    "item.aspects.evergrowing_blade.kill_counter.format_max": "%s",
     "item.aspects.evergrowing_blade.disclaimer": "Essence can only be extracted once per mob",
     "item.aspects.evergrowing_blade.use_result_1": "Extract passive mobs Essences into held Essence Cage once",
     "item.aspects.faded_relic.elytrian": "Faded Relic of Elytrian",
