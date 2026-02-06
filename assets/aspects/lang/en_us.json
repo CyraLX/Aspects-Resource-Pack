@@ -1208,5 +1208,6 @@
     "aspect.aspects.arachnid.climbing": "Climbing",
     "aspect.aspects.arachnid.climbing.description": "They have mastered the art of climbing up walls; they can climb them as if they are mere ladders and even hold onto ceilings and move around up there.",
     "aspect.aspects.arachnid.cobweb_mastery": "Cobweb Mastery",
-    "aspect.aspects.arachnid.cobweb_mastery.description": "Thanks to their mastery of weaving webs, they know how to utilize cobwebs to their fullest, especially defensively. While inside cobwebs, they can use them to take less damage overall."
+    "aspect.aspects.arachnid.cobweb_mastery.description": "Thanks to their mastery of weaving webs, they know how to utilize cobwebs to their fullest, especially defensively. While inside cobwebs, they can use them to take less damage overall.",
+    "trigger.aspects.aspect.check": "Your Aspect is %1$s from %2$s"
 }
