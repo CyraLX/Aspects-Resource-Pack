@@ -502,6 +502,8 @@
     "bossbar.aspects.feline.predator.inactive": "Inactive",
     "bossbar.aspects.feline.predator.pursuing": "Pursuing",
     "bossbar.aspects.feline.predator.recovering": "Recovering",
+    "dataPack.aspects.introduction": "Thanks for using %1$s and we hope you will be enjoying using %2$s!\nDon't forget to check out the %3$s in the Pause Menu for a detailed explanation about all the content %1$s adds!\n§7§o(It may show up as %4$s§7§o instead if another mod adds something to the Pause Menu)",
+    "dataPack.aspects.version_format": "v%1$s.%2$s.%3$s",
     "dataPack.aspects.description.footer": "Take Creature Features",
     "dataPack.aspects.description.header": "Use unique Powers",
     "dataPack.aspects.description.header_format": "%1$s | %2$s",
