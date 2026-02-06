@@ -653,7 +653,7 @@
     "dialog.aspects.essences.explanation.external_title": "Essences Explanation",
     "dialog.aspects.essences.explanation.how_to_get_essences": "To start collecting Essences you need the following items:",
     "dialog.aspects.essences.explanation.how_to_store_essences": "%1$s is used to store the Essences from mobs killed by the %2$s as they are not simply items you can hold and require that special container.",
-    "dialog.aspects.essences.explanation.how_to_remove_essences": "Once an %s is awakened you cannot store more essences into it or override it if you got the wrong Aspect, however you can empty the cage by using it in your offhand while sneaking.",
+    "dialog.aspects.essences.explanation.how_to_remove_essences": "Once an %s is awakened you cannot store more essences into it or override it if you got the wrong Aspect, however you can empty the cage by using it in your mainhand while sneaking.",
     "dialog.aspects.essences.explanation.what_are_essences": "Every mob has up to 3 Essences associated with them and each mob can give different amounts of those essences depending how rare they are.\n\nEssences contain mobs physical attributes to be forged into something new.",
     "dialog.aspects.essences.list": "List of Essences",
     "dialog.aspects.essences.list.apex": "Essences of big bads of their respective locations, some may even call them Bosses or Mini-Bosses. They represent unmatched power and standing.",
