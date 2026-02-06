@@ -1097,6 +1097,8 @@
     "item.aspects.suspicious_honey": "Suspicious Honey",
     "item.aspects.universal_essence_cage": "Essence Cage (Universal)",
     "item.aspects.universal_essence_cage.use_result_1": "Overrides your Aspect with one of your choice",
+    "item.aspects.chaotic_essence_cage": "Essence Cage (Chaotic)",
+    "item.aspects.chaotic_essence_cage.use_result_1": "Overrides your Aspect Randomly",
     "item.aspects.wings.elytrian": "Elytrian's Wings",
     "item.aspects.wings.elytrian.dyed": "Colored",
     "item.aspects.wings.elytrian.sneak_gravity": "Use %1$s (%2$s) to descend faster",
