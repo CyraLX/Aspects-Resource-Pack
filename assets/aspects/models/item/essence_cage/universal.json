@@ -1,9 +1,10 @@
 {
-	"parent": "aspects:item/essence_cage/with_essence_parent",
+	"parent": "aspects:item/essence_cage/_parent/with_essence",
 	"textures": {
-		"all": "aspects:block/essence_cage/universal_cage",
+		"all": "aspects:block/essence_cage/cage/frame/unique",
+		"gem": "aspects:block/essence_cage/cage/gem/universal",
 		"glass": "minecraft:block/glass",
-		"essence": "aspects:block/essence_cage/essence",
+		"essence": "aspects:block/essence_cage/essence/normal",
         "particle": "#essence"
 	}
 }

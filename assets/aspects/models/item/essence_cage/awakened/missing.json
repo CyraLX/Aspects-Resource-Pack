@@ -1,7 +1,8 @@
 {
-	"parent": "aspects:item/essence_cage/without_essence_parent",
+	"parent": "aspects:item/essence_cage/_parent/without_essence",
 	"textures": {
-		"all": "aspects:block/essence_cage/awakened_cage",
+		"all": "aspects:block/essence_cage/cage/frame/normal",
+		"gem": "aspects:block/essence_cage/cage/gem/awakened",
 		"glass": "minecraft:block/glass",
 		"particle": "#glass"
 	}

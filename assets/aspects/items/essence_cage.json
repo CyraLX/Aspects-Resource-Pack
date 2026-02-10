@@ -43,11 +43,11 @@
 			},
 			"on_true": {
 				"type": "minecraft:model",
-				"model": "aspects:item/essence_cage/contains"
+				"model": "aspects:item/essence_cage/normal/contains"
 			},
 			"on_false": {
 				"type": "minecraft:model",
-				"model": "aspects:item/essence_cage/empty"
+				"model": "aspects:item/essence_cage/normal/empty"
 			}
 		}
 	}

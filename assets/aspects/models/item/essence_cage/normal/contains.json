@@ -2,7 +2,7 @@
 	"parent": "aspects:item/essence_cage/_parent/with_essence",
 	"textures": {
 		"all": "aspects:block/essence_cage/cage/frame/normal",
-		"gem": "aspects:block/essence_cage/cage/gem/collector",
+		"gem": "aspects:block/essence_cage/cage/gem/normal",
 		"glass": "minecraft:block/glass",
 		"essence": "aspects:block/essence_cage/essence/subtle",
         "particle": "#essence"
