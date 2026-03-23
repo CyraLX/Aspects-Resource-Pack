@@ -587,7 +587,7 @@
     "dialog.aspects.aspect_list": "List of Aspects",
     "dialog.aspects.aspect_list.external_title": "Aspect List",
     "dialog.aspects.choose_aspect": "Choose your Aspect",
-    "dialog.aspects.choose_aspect.external_title": "Choose from Aspect",
+    "dialog.aspects.choose_aspect.external_title": "Choose your Aspect",
     "dialog.aspects.choose_aspect.lore": "A deal was made, though you have no memory of it.\nNow, claim your reward.",
     "dialog.aspects.chosen_aspect": "%1$s | %2$s",
     "dialog.aspects.chosen_aspect.confirmation": "Are you sure you want to choose „%s“ as your Aspect?",
