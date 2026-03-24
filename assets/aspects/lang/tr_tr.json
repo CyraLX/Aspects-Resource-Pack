@@ -1219,8 +1219,6 @@
     "aspects.description": "Origins inspired modification that adds unique Aspects with upsides, downsides and abilities.",
     "dialog.aspects.information": "Datapack Information",
     "dialog.aspects.information.external_title": "Datapack Info",
-    "menu.aspects.about.configs": "Configuration",
-    "menu.aspects.about.information": "Information",
     "menu.aspects.about.issues": "Issues",
     "menu.aspects.about.version_author_format": "%1$s\n%2$s",
     "menu.aspects.about.website": "Website"
