@@ -197,7 +197,6 @@
     "aspects.authors": "CyraLX, Efimity, Ather, Aeaylin",
     "aspects.authors_format": "By %s",
     "aspects.description": "Origins inspired modification that adds unique Aspects with upsides, downsides and abilities.",
-    "aspects.version": "v1.3.1",
     "badge_details.aspects.effect.anger_thing": "Anger %s",
     "badge_details.aspects.effect.anger_thing_in_range": "Anger %1$s within %2$s radius",
     "badge_details.aspects.effect.anger_thing_in_range_to_attacker": "Anger %1$s within %2$s radius to attacker",

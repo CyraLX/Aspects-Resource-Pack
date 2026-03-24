@@ -1217,7 +1217,6 @@
     "aspects.authors": "CyraLX, Efimity, Ather, Aeaylin",
     "aspects.authors_format": "By %s",
     "aspects.description": "Origins inspired modification that adds unique Aspects with upsides, downsides and abilities.",
-    "aspects.version": "v1.3.1",
     "dialog.aspects.information": "Datapack Information",
     "dialog.aspects.information.external_title": "Datapack Info",
     "menu.aspects.about.configs": "Configuration",
