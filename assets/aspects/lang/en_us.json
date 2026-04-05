@@ -1258,5 +1258,21 @@
     "scoreboard.aspects.aspect_stats.first_pick": "Picked as their first choice",
     "scoreboard.aspects.aspect_stats.focus_uses": "Uses of their Focus",
     "scoreboard.aspects.aspect_stats.total": "Times it was picked overall",
-    "trigger.aspects.aspect.check": "Your Aspect is %1$s from %2$s"
+    "trigger.aspects.aspect.check": "Your Aspect is %1$s from %2$s",
+
+    "badge_details.aspects.modifier.when_vertical_speed_faster": "(When Vertical Speed is %s or faster)",
+    "badge_details.aspects.modifier.when_vertical_speed_slower": "(When Vertical Speed is %s or slower)",
+    "badge_details.aspects.modifier.when_horizontal_speed_faster": "(When Horizontal Speed is %s or slower)",
+    "badge_details.aspects.modifier.when_horizontal_speed_slower": "(When Horizontal Speed is %s or slower)",
+    "badge_details.aspects.modifier.when_speed_faster": "(When Speed is %s or faster)",
+    "badge_details.aspects.modifier.when_speed_slower": "(When Speed is %s or slower)",
+
+    "badge_details.aspects.trigger.vertical_speed_faster": "When Vertical Speed is %s or faster:",
+    "badge_details.aspects.trigger.vertical_speed_slower": "When Vertical Speed is %s or slower:",
+    "badge_details.aspects.trigger.horizontal_speed_faster": "When Horizontal Speed is %s or slower:",
+    "badge_details.aspects.trigger.horizontal_speed_slower": "When Horizontal Speed is %s or slower:",
+    "badge_details.aspects.trigger.speed_faster": "When Speed is %s or faster:",
+    "badge_details.aspects.trigger.speed_slower": "When Speed is %s or slower:",
+
+    "extra.aspects.speed_format": "%1$s/%2$s"
 }
