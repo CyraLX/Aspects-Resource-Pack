@@ -821,6 +821,7 @@
     "extra.aspects.and": "%1$s and %2$s",
     "extra.aspects.aspect_effect": "Aspect Effect",
     "extra.aspects.aspect_effects": "Aspect Effects",
+    "extra.aspects.default_aspect": "Default Aspect",
     "extra.aspects.block": "Block",
     "extra.aspects.block_low": "block",
     "extra.aspects.blocks": "Blocks",
