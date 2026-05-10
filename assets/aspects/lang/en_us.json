@@ -581,7 +581,7 @@
     "dialog.aspects.addons": "%s Addons",
     "dialog.aspects.addons.description": "Installed Addons related to %s:",
     "dialog.aspects.addons.external_title": "Addons...",
-    "dialog.aspects.inspect_aspect": "Active Aspect: %1$s | %2$s",
+    "dialog.aspects.inspect_aspect": "%1$s | %2$s",
     "dialog.aspects.inspect_aspect.external_title": "Inspect your active Aspect",
     "dialog.aspects.aspect_info": "%1$s | %2$s",
     "dialog.aspects.aspect_info.effects": "%s:",
