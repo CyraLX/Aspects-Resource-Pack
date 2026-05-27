@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "aspects:item/relic/faded/housing_rounded"
+        "layer1": "aspects:item/aspect/housing/square_large"
     }
 }
