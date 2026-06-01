@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer1": "aspects:item/relic/shattered/housing/damaged_large"
+        "layer1": "aspects:item/relic/shattered/housing/damaged_large_blinking"
     }
 }

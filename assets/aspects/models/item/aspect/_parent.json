@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer1": "aspects:item/aspect/housing/square_large"
+        "layer1": "aspects:item/aspect/housing/square_large_blinking"
     }
 }
