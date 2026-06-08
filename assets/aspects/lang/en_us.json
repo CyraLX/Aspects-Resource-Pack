@@ -499,6 +499,7 @@
     "bossbar.aspects.feline.predator.pursuing": "Pursuing",
     "bossbar.aspects.feline.predator.recovering": "Recovering",
     "bossbar.aspects.rotten.aggrevated": "Aggrevated",
+    "bossbar.aspects.oozeling.amplify_elasticity": "Amplify Elasticity",
     "config.aspects.player.aspectless_players_invisible": "Aspectless Players Invisible",
     "config.aspects.player.aspectless_players_invisible.description": "When %s, makes it so that Players which do not have an active Aspect become invisible.",
     "config.aspects.player.aspectless_players_invisible.note": "",
