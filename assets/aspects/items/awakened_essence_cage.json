@@ -183,6 +183,22 @@
                     "type": "minecraft:model",
                     "model": "aspects:item/essence_cage/awakened/rotten"
                 }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": {
+                                "namespace": "aspects",
+                                "name": "oozeling"
+                            }
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "aspects:item/essence_cage/awakened/oozeling"
+                }
             }
         ]
     }
