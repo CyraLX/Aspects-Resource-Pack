@@ -1249,7 +1249,7 @@
     "scoreboard.aspects.aspect_stats.focus_uses": "Odak'ı Kullanma Sayısı",
     "scoreboard.aspects.aspect_stats.total": "Toplamda Kaç Kere Seçildi",
     "trigger.aspects.aspect.check": "Aspect'in %2$s'den %1$s",
-    "badge_details.aspects.modifier.multiplicitive": "(Multiplicative)",
+    "badge_details.aspects.modifier.multiplicative": "(Multiplicative)",
     "bossbar.aspects.oozeling.amplify_elasticity": "Elastikliği Güçlendir",
     "config.aspects.player.force_default_aspect": "Varsayılan Aspect",
     "config.aspects.player.force_default_aspect.description": "Bir oyunucuya ilk kez Aspect verilirken, istediklerini seçmek yerine ayarlanmış olan Varsayılan Aspect otomatik olarak verilmesini sağlar.",

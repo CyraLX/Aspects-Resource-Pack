@@ -326,7 +326,7 @@
     "badge_details.aspects.modifier.unbreakable": "(Unbreakable)",
     "badge_details.aspects.modifier.unstackable": "(Unstackable)",
     "badge_details.aspects.modifier.unsuppressed_by": "(Unsuppressed by %s)",
-    "badge_details.aspects.modifier.multiplicitive": "(Multiplicative)",
+    "badge_details.aspects.modifier.multiplicative": "(Multiplicative)",
     "badge_details.aspects.modifier.up_to": "(Up to %s)",
     "badge_details.aspects.modifier.when_airborne": "(When Airborne)",
     "badge_details.aspects.modifier.when_airborne_not": "(When not Airborne)",

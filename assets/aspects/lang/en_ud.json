@@ -1249,7 +1249,7 @@
     "scoreboard.aspects.aspect_stats.focus_uses": "snɔoℲ ɹᴉǝɥʇ ɟo sǝs∩",
     "scoreboard.aspects.aspect_stats.total": "llɐɹǝʌo pǝʞɔᴉd sɐʍ ʇᴉ sǝɯᴉ┴",
     "trigger.aspects.aspect.check": "%2$s ɯoɹɟ %1$s sᴉ ʇɔǝds∀ ɹno⅄",
-    "badge_details.aspects.modifier.multiplicitive": "(Multiplicitive)",
+    "badge_details.aspects.modifier.multiplicative": "(multiplicative)",
     "bossbar.aspects.oozeling.amplify_elasticity": "Amplify Elasticity",
     "config.aspects.player.force_default_aspect": "Force Default Aspect",
     "config.aspects.player.force_default_aspect.description": "When an Aspect is meant to be applied to the player for the first time, instead of letting freely choose one this will force the specified Aspect onto the players.",
