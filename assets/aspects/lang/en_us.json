@@ -206,7 +206,7 @@
     "aspect.aspects.shulk.small_footprint.description": "They are tiny in size and easy to kill due to their low health.",
     "aspect.random.message": "Your randomly assigned Aspect is %1$s from %2$s",
     "aspects.addon_format": "%1$s: %2$s",
-    "aspects.authors": "CyraLX, Efimity, Ather, Aeayli",
+    "aspects.authors": "CyraLX, Efimity, Aeayli",
     "aspects.authors_format": "By %s",
     "aspects.description": "Origins inspired modification that adds unique Aspects with upsides, downsides and abilities.",
     "badge_details.aspects.effect.anger_thing": "Anger %s",
